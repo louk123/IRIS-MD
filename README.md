@@ -3,7 +3,7 @@
   <img src="https://imgur.com/yCc5W7S.jpg" width="300" height="300"/>
   <h1>LO9MANE-MD</h1>
 
-<a href="https://github.com/louk123"><img title="Creator" src="https://img.shields.io/badge/Creator-VENOX-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/louk123"><img title="Creator" src="https://img.shields.io/badge/Creator-LO9MANE-red.svg?style=for-the-badge&logo=github"></a>
 <br>
 <a href="https://github.com/louk123?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/V-E-N-O-X?color=green&style=flat-square"></a>
 <a href="https://github.com/louk123/IRIS-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/V-E-N-O-X/IRIS-MD?color=white&style=flat-square"></a>
