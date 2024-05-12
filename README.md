@@ -50,7 +50,7 @@
 - *I will only Assist You in Bot Deployment*
 - *Do not revamp my modules/plugins*
 - *This Bot is not 100% secure,So keep this in mind*
-- ***Regards [Venox-Senpai](https://github.com/louk123)***
+- ***Regards [PRINCE-LO9MANE](https://github.com/louk123)***
 
   
 
