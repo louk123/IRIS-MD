@@ -1,6 +1,6 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <div align="center" class= "main"> 
-  <img src="https://imgur.com/D60nScQ.jpg" width="300" height="300"/>
+  <img src="https://imgur.com/a/BfxdCdL.jpg" width="300" height="300"/>
   <h1>LO9MANE-MD</h1>
 
 <a href="https://github.com/louk123"><img title="Creator" src="https://img.shields.io/badge/Creator-VENOX-red.svg?style=for-the-badge&logo=github"></a>
